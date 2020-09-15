@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-Email:	BlackBoxLogic@gmail.com
+Email: [blackboxlogic@gmail.com](mailto:blackboxlogic@gmail.com)
 
 I am an experienced full stack .Net software engineer, seeking a technical lead position in Portland, Maine. See [github.com/blackboxlogic](https://github.com/blackboxlogic) for examples of my work. I’d love to give you the tour. References are available upon request.
 
