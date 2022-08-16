@@ -9,16 +9,14 @@
 * White starts the game by un-moving their king.
 
 ## Taking a Turn
-* Each turn consists of two parts in this order:
-* Finish your opponent's chess turn by un-capturing one of your pieces.
-* Take the first half of your turn (un-moving one of your piece, required).
+* Each turn consists of two parts: un-capture one of your pieces, then un-move one of your pieces.
 
 ### Un-Capturing
+* This step is optional unless otherwise noted in "Kings are Complicated" and "Pawns are Complicated".
 * Place one of your "captured" (off the board) pieces onto the board at the location from which your opponent just un-moved their piece.
-* This is optional unless otherwise noted in "Kings are Complicated" and "Pawns are Complicated".
 
 ### Un-Moving
-* Each turn must be a legal chess move when viewed in reverse.
+* This step is required.
 * The piece you un-move does not need to be the same piece which you un-captured.
 * Generally, pieces move the same way they do in normal chess, see "Kings are Complicated" and "Pawns are complicated" for exceptions.
 
@@ -35,11 +33,11 @@
 * Force-Un-Capture: Pawns can move backward at an angle one space *forcing* your opponent to un-captured a piece. Force-un-capture is only legal if your opponent can legally un-capture a pieces.
 * Un-Promoting: Any non-king piece on your last row can be swapped by a captured pawn before you un-move (the old piece becomes captured). The pawn must be un-moved on the same turn (if it can't legally un-move, then un-promoting was not legal).
 * Un-En-passant: If your opponent's pawn un-moved backward at an angle from your third row to your 4th row, you may un-capture a pawn on your 4th row on the file their pawn un-moved from (and announce "en-passant").
-* Pawns may never be un-moved or un-captured to their first row
+* Pawns may never be un-moved or un-captured to their first row.
 
 ## Ending a Game
-* Win by Returning Home: If a player get all their pieces to their starting chess position that player wins.
-* As Close as Possible: If all your pieces are on the board and your only legal un-moves would take a piece out of its home position then you may declar the game over. See "As Close as Possible Scoring" to determine the winner.
+* Win by Returning Home: If a player gets all their pieces to their starting chess position that player wins.
+* As Close as Possible: If all your pieces are on the board and your only legal un-moves would take a piece out of its home position then you may declare the game over. See "As Close as Possible Scoring" to determine the winner.
 * Resigning, draw by repition, draw by agreement and 50-move-rule are the same as normal chess.
 
 ### As Close as Possible Scoring
