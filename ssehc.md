@@ -16,8 +16,14 @@
 ### **Un-Moving**
 * This phase is *required*.
 * Choose any peice to un-move (unless noted in "Kings" or "Pawns").
-* Rooks, knights, bishups and Queens un-move the same way they move in normal chess.
-* See "Kings" and "Pawns" for how those pieces un-move.
+* Rooks, knights, bishups and Queens are simple (they un-move like they move in normal chess).
+* See "Kings" and "Pawns" for how they un-move.
+
+## **Ending a Game**
+* During the un-move phase of your turn, if all your pieces are on the board and your only legal un-moves would take a piece out of its home position then you may declare the game over. The player with *most pieces in their home position wins*.
+* Resigning, or draw by repition/stalemate/agreement/50-move-rule are the same as normal chess.
+
+TBD how to prevent camping? Maybe allow them to be captured?
 
 ### **Kings** (are Complicated in Reverse)
 * **Un-Single-Step**: A king may move one square in any direction.
@@ -34,6 +40,4 @@
 * **Un-En-passant**: If your opponent's pawn un-moved backward at an angle from your third row to your 4th row, you may un-capture a pawn on your 4th row on the file their pawn un-moved from (and announce "en-passant").
 * Pawns may never be un-moved or un-captured to their first row.
 
-## **Ending a Game**
-* During the un-move phase of your turn, if all your pieces are on the board and your only legal un-moves would take a piece out of its home position then you may declare the game over. The player with *most pieces in their home position wins*.
-* Resigning, or draw by repition/stalemate/agreement/50-move-rule are the same as normal chess.
+
