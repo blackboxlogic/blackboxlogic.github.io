@@ -39,4 +39,4 @@
 * **Un-En-passant**: If your opponent's pawn un-moved backward at an angle from your third row to your 4th row, you may un-capture a pawn on your 4th row on the file their pawn un-moved from (and announce "en-passant").
 * Pawns may never be un-moved or un-captured to their first row.
 
-This game was invented by Alex Hennings in 2020. Consider taking a picture after each un-capture phase and reviewing them in reverse after finishing a game.
+This game was invented by Alex Hennings in 2020. Consider taking a picture after each phase and reviewing them in reverse order after the game.
