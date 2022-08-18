@@ -33,11 +33,11 @@
 * **Un-Check**: You may not end your turn with your opponent in check unless your opponent can legally remove themselves from check with an *un-capture*. A player who starts their turn in *check* must *un-capture* out of check.
 
 ### **Pawns** (are Complicated in Reverse)
+* **Un-Capture**: Pawns may not be *un-captured* to the first or last row.
 * **Un-Single-Step**: A pawn may move one square toward its home row (but never to the first row). This *prevents* your opponent from *un-capturing*.
-* **Un-Double-Step**: A pawn on the 4th row may move two squares toward its 2nd row. This *prevents* your opponent from un-capturing.
+* **Un-Double-Step**: A pawn on the 4th row may move two squares toward its 2nd row. This *prevents* your opponent from *un-capturing*.
 * **Force-Un-Capture**: Pawns can move backward at an angle one space. This *forces* your opponent to *un-captured* a piece. This is only legal if your opponent can legally *un-capture* a pieces to this location.
 * **Un-Promotion**: Any non-king piece on your last row can be swapped with a *captured* pawn before you un-move it (the old piece becomes *captured* and moves off-board). If the pawn can't legally *un-move* from that square, *un-promotion* was not legal.
-* **Un-En-passant**: If your opponent's pawn *un-moved* backward at an angle from your 3rd row to your 4th row, you may *un-capture* a pawn on your 4th row on the file their pawn *un-moved* from (and announce "en-passant").
-* **Un-Capture**: Pawns may not be *un-captured* to the first or last row.
+* **Un-En-passant**: If your opponent's pawn *Force-Un-Captures* from your 3rd row to your 4th row, you may *un-capture* a pawn on your 4th row on the file their pawn *un-moved* from (and announce "en-passant"). You must then *un-double-step* this pawn on your *un-move* phase and if you can't legally do so then *un-en-passant* wasn't legal.
 
 This game was invented by Alex Hennings in 2020. Consider taking a picture after each phase and reviewing them in reverse order after the game.
