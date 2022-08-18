@@ -15,12 +15,12 @@
 
 ### **Un-Move**
 * This phase is *required*. You may choose which one of your pieces to move (unless in *Un-Check*, see "Help").
-* Rooks, knights, bishups and Queens are simple (they *un-move* like they move in normal chess). For kings and pawns, see "Help".
+* Rooks, knights, bishops and Queens are simple (they *un-move* like they move in normal chess). For kings and pawns, see "Help".
 
 ## **End of Game**
-* **End**: Once you have all your peices on the board, if all squares in the first two rows of your board are occupied OR your only legal *un-moves* would take a piece out of its home position then instead of your *un-move* phase you may *declare the game is over* by announcing "good enough".
-* **Scoring**: Players get one point for each peice in its normal-chess-start-position and loose two points for each piece in enemy teritory (anywhere in the last two rows). The player with the most points wins.
-* Resigning, or draw by repition/stalemate/agreement/50-move-rule are the same as normal chess.
+* **End**: Once you have all your pieces on the board, if all squares in the first two rows of your board are occupied OR your only legal *un-moves* would take a piece out of its home position then instead of your *un-move* phase you may *declare the game is over* by announcing "good enough".
+* **Scoring**: Players get one point for each piece in its normal-chess-start-position and loose two points for each piece in enemy territory (anywhere in the last two rows). The player with the most points wins.
+* Resigning, or draw by repetition/stalemate/agreement/50-move-rule are the same as normal chess.
 
 ## **Help**
 * King and Pawn rules are conditional and asymmetrical in normal chess so they are complicated in reverse. They can add restrictions to which piece may *un-move*, where to, if the *un-capture* phase occurs and which pieces may be *un-captured*. These will be easier to remember and understand if you think of these as normal chess rules (which you already know and love) played in reverse.
@@ -30,7 +30,7 @@
 * **Un-Castling**: If your king/rook are in a castled position, and there is nothing in the way and you're not *un-castling* into, out of, or through check, then you may *un-castle* (*un-move* both the king and rook to their starting position).
 * **After Un-Castling**: Your opponent may not *un-capture* a piece on their next turn. You may not *un-move* your king or this rook for the rest of the game.
 * **Check**: You may end your turn with your king in *check* (and announce "check") as long as it can legally be removed from check before you're next *un-move*.
-* **Un-Check**: You may not end your turn with your opponent in check unless your oppenent can legally remove themselves from check with an *un-capture*. A player who starts their turn in *check* must *un-capture* out of check.
+* **Un-Check**: You may not end your turn with your opponent in check unless your opponent can legally remove themselves from check with an *un-capture*. A player who starts their turn in *check* must *un-capture* out of check.
 
 ### **Pawns** (are Complicated in Reverse)
 * **Un-Single-Step**: A pawn may move one square toward its home row (but never to the first row). This *prevents* your opponent from *un-capturing*.
