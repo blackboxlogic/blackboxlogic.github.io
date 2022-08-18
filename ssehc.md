@@ -40,4 +40,4 @@
 * **Un-Promotion**: Any non-king piece on your last row can be swapped with a *captured* pawn before you *un-move* it (the old piece becomes *captured* and is removed from the board). If the pawn can't legally *un-move* from that square, *un-promotion* was not legal.
 * **Un-En-passant**: If your opponent's pawn *Force-Un-Captures* from your 3rd row to your 4th row, you may *un-capture* a pawn on your 4th row on the file their pawn *un-moved* from (and announce "en-passant"). You must then *un-double-step* this pawn on your *un-move* phase and if you can't legally do so then *un-en-passant* wasn't legal.
 
-This game was invented by Alex Hennings in 2020. Consider taking a picture after each phase and reviewing them in reverse order after the game.
+This game was invented by Alex Hennings in 2018. Consider taking a picture after each phase and reviewing them in reverse order after the game.
