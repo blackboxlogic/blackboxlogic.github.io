@@ -6,6 +6,10 @@ body {
 	font-family: micrenc
 }
 
+li {
+	margin: 8px;
+}
+
 /*
 @media (prefers-color-scheme: dark) {
 	body {
