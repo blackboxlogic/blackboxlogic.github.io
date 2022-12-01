@@ -1,11 +1,11 @@
 # Ssehc
 * Ssehc is a chess variant with *normal-chess* rules played in reverse.
 * Moves must be made such that if the game were recorded and played backward it would appear to be a legal forward chess game with an unusual starting position.
-* The goal is to end the game with your pieces in their starting positions (or as close as possible).
+* The goal is to end the game with your pieces in their *normal-chess* starting positions (or as close as possible).
 
 ## **Starting a Game**
 * Setup the board with each king two squares forward from their normal starting position (white king on F3, black king on F6).
-* All other pieces start off the board (they are *captured*) and will be *un-captured* back onto the board throughout the game.
+* All other pieces are off the board (they start *captured*) and will be *un-captured* back onto the board throughout the game.
 * White starts the game by *un-moving* their king. Players alternate turns after that.
 * Each player's turn has two phases: *un-capture* then *un-move*.
 
