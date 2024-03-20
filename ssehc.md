@@ -14,7 +14,7 @@
 * Place your *captured* pieces onto the board at the location from which your opponent *un-moved* their piece.
 
 ### **Un-Move**
-* This phase is *required*. You may choose which one of your pieces to *un-move* (unless in *Un-Check*, see "Help").
+* This phase is *required*. Choose one of your pieces to *un-move* (unless in *Un-Check*, see "Help").
 * Rooks, knights, bishops and Queens are simple (they *un-move* like they *move* in *normal-chess*). For kings and pawns, see "Help".
 
 ## **End of Game**
@@ -27,16 +27,16 @@
 
 ### **Kings** (are Complicated in Reverse)
 * **Un-Single-Step**: A king may *un-move* one square in any direction (same as *normal-chess*).
-* **Un-Castling**: If your king/rook are in a castled position, and there is nothing in the way and you're not *un-castling* into, out of, or through check, then you may *un-castle* (*un-move* both the king and rook to their starting position).
+* **Un-Castling**: If your king & rook are in a castled position, and there are no pieces between them, and you're not *un-castling* into, out of, or through check, then you may *un-castle* (*un-move* both the king and rook to their starting position).
 * **After Un-Castling**: Your opponent may not *un-capture* a piece on their next turn. You may not *un-move* your king or this rook for the rest of the game.
-* **Check**: You may end your turn with your king in *check* (and announce "check") as long as it can legally be removed from check before you're next *un-move*.
+* **Check**: You may end your turn with your king in *check* (and announce "check") as long as it can legally be removed from check before your next *un-move*.
 * **Un-Check**: You may not end your turn with your opponent in check unless your opponent can legally remove themselves from check with an *un-capture*. A player who starts their turn in *check* must *un-capture* out of check.
 
 ### **Pawns** (are Complicated in Reverse)
 * **Un-Capture**: Pawns may not be *un-captured* to the first or last row.
 * **Un-Single-Step**: A pawn may *un-move* one square toward its home row (but never to the first row). This *prevents* your opponent from *un-capturing*.
 * **Un-Double-Step**: A pawn on the 4th row may *un-move* two squares toward its 2nd row. This *prevents* your opponent from *un-capturing*.
-* **Force-Un-Capture**: Pawns can *un-move* backward at an angle one space. This *forces* your opponent to *un-capture* a piece. This is only legal if your opponent can legally *un-capture* a pieces to this location.
+* **Force-Un-Capture**: Pawns can *un-move* one  space backward and to a side (but never to the first row). This *forces* your opponent to *un-capture* a piece. This is only legal if your opponent can legally *un-capture* a pieces to this location.
 * **Un-Promotion**: Any non-king piece on your last row can be swapped with a *captured* pawn before you *un-move* it (the old piece becomes *captured* and is removed from the board). If the pawn can't legally *un-move* from that square, *un-promotion* was not legal.
 * **Un-En-passant**: If your opponent's pawn *Force-Un-Captures* from your 3rd row to your 4th row, you may *un-capture* a pawn on your 4th row on the file their pawn *un-moved* from (and announce "en-passant"). You must then *un-double-step* this pawn on your *un-move* phase and if you can't legally do so, then *un-en-passant* wasn't legal.
 
