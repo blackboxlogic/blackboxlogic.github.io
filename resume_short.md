@@ -18,7 +18,7 @@ C#, ASP.net, SQL, Azure
 
 ## Employment History
 
-### Senior Software Engineer – *FieldStack – 2020 to present*
+### Senior Software Engineer – *FieldStack – 2020 to 2022*
 
 I am a senior software engineer and scrum master managing 6 junior developers and maintaining a suite of **_Point of Sale_** and **_eCommerce_** tools.
 
